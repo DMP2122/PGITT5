@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMP2122PGITT5", "DMP2122PGITT5.csproj", "{F3193BCC-6786-4FCA-9B85-475E242137EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3193BCC-6786-4FCA-9B85-475E242137EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3193BCC-6786-4FCA-9B85-475E242137EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3193BCC-6786-4FCA-9B85-475E242137EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3193BCC-6786-4FCA-9B85-475E242137EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4BE8F0-5FB7-44DC-AC79-6742A79606A5}
+	EndGlobalSection
+EndGlobal
